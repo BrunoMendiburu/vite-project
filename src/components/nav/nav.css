@@ -35,3 +35,9 @@
     font-size: 20px;
     background-color: transparent;
 }
+
+.bar {
+    position: relative;
+    color: #fff;    
+    font-size: 2em;
+}

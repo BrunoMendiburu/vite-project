@@ -9,6 +9,9 @@ const Nav = () => {
                     <h1>PAPUCHO GVNG</h1>
                     <h2>Welcome to first PAPUCHO web in Latam.</h2>
                 </div>
+                <div className="bar">
+                    <i class="ri-menu-line"></i>
+                </div>
             </header>
         </div>
     )
