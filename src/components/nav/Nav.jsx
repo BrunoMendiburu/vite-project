@@ -12,6 +12,9 @@ const Nav = () => {
                 <div className="bar">
                     <i class="ri-menu-line"></i>
                 </div>
+                <div className="humo">
+                    <img src="http://assets.stickpng.com/thumbs/580b585b2edbce24c47b26f9.png" alt="" />
+                </div>
             </header>
         </div>
     )
